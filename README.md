@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> 
-<a href="https://linkedin.com/in/ammar-jussa-56a1b216a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ammar-jussa-56a1b216a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ammar-jussa-56a1b216a" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="ammar-jussa-56a1b216a" height="30" width="40" /></a>
 <a href="https://fb.com/ammar.anwar.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ammar.anwar.5" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ammar26497" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ammar26497" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jussa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="jussa" height="30" width="40" /></a>
