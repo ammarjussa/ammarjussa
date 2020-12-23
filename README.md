@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Years Badge](https://badges.pufler.dev/years/ammarjussa)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ammarjussa)](https://badges.pufler.dev)
+
+
 
