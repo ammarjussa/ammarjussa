@@ -11,11 +11,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammarjussa&theme=monokai" alt="ammarjussa" /></a> </p>
 
 
-- 🔭 I’m currently working on **My new App**
+- 🔭 I’m currently working on **Something Really Cool 😉**
 
 - 🌱 I’m currently learning **Serverless Architecture**
 
-- 💬 Ask me about **ReactJS, NextJS, NodeJS**
+- 💬 Ask me about **ReactJS, NextJS, NodeJS, React Native etc.**
 
 - 📫 How to reach me **ammar26497@gmail.com**
 
