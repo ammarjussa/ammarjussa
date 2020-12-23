@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Years Badge](https://badges.pufler.dev/years/ammarjussa)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ammarjussa)](https://badges.pufler.dev)
-
 
