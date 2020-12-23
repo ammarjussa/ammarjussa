@@ -30,5 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarjussa&" alt="ammarjussa" /></p>
 
+[![Ammar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@10687f80-6319-4d98-beca-0a8a101381f2)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
