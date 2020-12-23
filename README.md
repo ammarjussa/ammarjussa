@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarjussa&show_icons=true&theme=dracula&locale=en&count_private=true" alt="ammarjussa" /></p>
 
-<p align="center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarjussa&" alt="ammarjussa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarjussa&" alt="ammarjussa" /></p>
 
 [![Ammar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ammarjussa)](https://github.com/anuraghazra/github-readme-stats)
 
