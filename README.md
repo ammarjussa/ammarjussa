@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar Jussa</h1>
 <h3 align="center">Full Stack Web and Mobile Application Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> </p> 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> </div> 
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/ammarjussa)](https://badges.pufler.dev)
 
