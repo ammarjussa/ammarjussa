@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ammar Jussa</h1>
 <h3 align="center">Full Stack Web and Mobile Application Developer</h3>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> </div> 
+
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/ammarjussa)](https://badges.pufler.dev)
-</div> 
+
 <p align="center">
 <a href="https://linkedin.com/in/ammar-jussa-56a1b216a" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="ammar-jussa-56a1b216a" height="30" width="40" /></a>
 <a href="https://fb.com/ammar.anwar.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" alt="ammar.anwar.5" height="30" width="40" /></a>
