@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack Web and Mobile Application Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> </p> 
+
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/ammarjussa)](https://badges.pufler.dev)
 
 <p align="center">
