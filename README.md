@@ -29,7 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarjussa&theme=dracula&" alt="ammarjussa" /></p>
 
-[![Ammar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ammarjussa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
