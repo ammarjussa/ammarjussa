@@ -2,10 +2,11 @@
 <h3 align="center">Full Stack Web and Mobile Application Developer</h3>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> </div> 
+<br/>
 
 <p align="center">
 <a href="https://linkedin.com/in/ammar-jussa-56a1b216a" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="ammar-jussa-56a1b216a" height="30" width="40" /></a>
-<a href="https://fb.com/ammar.anwar.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" alt="ammar.anwar.5" height="30" width="40" /></a> <a href="https://leetcode.com/jussa/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="ammar-jussa-56a1b216a" height="30" width="40" /></a>
+<a href="https://fb.com/ammar.anwar.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" alt="ammar.anwar.5" height="30" width="40" /></a> <a href="https://leetcode.com/jussa/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="linkedin_jussa" height="30" width="40" /></a>  <a href="https://www.hackerrank.com/ammar26497" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="hackerrank_jussa" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammarjussa&theme=monokai" alt="ammarjussa" /></a> </p>
