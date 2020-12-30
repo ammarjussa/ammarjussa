@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ammar Jussa</h1>
 <h3 align="center">Full Stack Web and Mobile Application Developer</h3>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> </div> 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> </div>  [![GitHub followers](https://img.shields.io/github/followers/ammarjussa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+
 <br/>
 
 <p align="center">
