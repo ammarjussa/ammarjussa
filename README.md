@@ -3,7 +3,7 @@
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> </div>  
 
-[![GitHub followers](https://img.shields.io/github/followers/ammarjussa.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/ammarjussa.svg?style=social&label=Follow&maxAge=2592000&align=center)](https://github.com/Naereen?tab=followers)
 
 <br/>
 
