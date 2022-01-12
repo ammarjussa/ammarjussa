@@ -5,9 +5,16 @@
 
 <br/>
 
-<p align="center">
-<a href="https://linkedin.com/in/ammar-jussa-56a1b216a" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="ammar-jussa-56a1b216a" height="30" width="40" /></a>
-<a href="https://fb.com/ammar.anwar.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" alt="ammar.anwar.5" height="30" width="40" /></a> <a href="https://leetcode.com/jussa/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="linkedin_jussa" height="30" width="40" /></a>  <a href="https://www.hackerrank.com/ammar26497" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="hackerrank_jussa" height="30" width="30" /></a>
+<p>
+  <a href="https://linkedin.com/in/ammar-jussa-56a1b216a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/ammar_jussa">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:ammar26497@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammarjussa&theme=monokai" alt="ammarjussa" /></a> </p>
