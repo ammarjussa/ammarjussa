@@ -36,6 +36,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarjussa&show_icons=true&theme=dracula&locale=en&count_private=true&" alt="ammarjussa" /></p>
 
+<a href="https://github.com/ammarjussa"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarjussa&theme=radical&card_width=300&langs_count=5" />
+</a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarjussa&show_icons=true&locale=en&theme=dracula&layout=compact&count_private=true&" alt="ammarjussa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarjussa&theme=dracula&" alt="ammarjussa" /></p>
