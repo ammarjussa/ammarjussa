@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ammar Jussa</h1>
+<h1 align="center">Hi, <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Ammar Jussa</h1>
 <h3 align="center">Full Stack Web and Mobile Application Developer</h3>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=ammarjussa&label=Profile%20views&color=green&style=flat" alt="ammarjussa" /> </div>  
