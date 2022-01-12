@@ -5,7 +5,7 @@
 
 <br/>
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/ammar-jussa-56a1b216a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
