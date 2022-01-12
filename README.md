@@ -34,15 +34,16 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarjussa&show_icons=true&theme=dracula&locale=en&count_private=true&" alt="ammarjussa" /></p>
-
 <a href="https://github.com/ammarjussa"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarjussa&theme=radical&card_width=300&langs_count=5" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarjussa&show_icons=true&theme=dracula&locale=en&count_private=true&" alt="ammarjussa" /></p>
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarjussa&show_icons=true&locale=en&theme=dracula&layout=compact&count_private=true&" alt="ammarjussa" /></p>
+<a href="https://github.com/ammarjussa"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarjussa&theme=radical&card_width=300&langs_count=5" alt="ammarjussa"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarjussa&theme=dracula&" alt="ammarjussa" /></p>
+<a href="https://github.com/ammarjussa"> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarjussa&theme=dracula&" alt="ammarjussa" /></p> </a>
 
 
 
