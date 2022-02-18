@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **Something Really Cool 😉**
 
-- 🌱 I’m currently learning **Serverless Architecture**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, React Native etc.**
 
