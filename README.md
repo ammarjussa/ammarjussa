@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="./Aj.png" height="100px"/></a> 
+
 <h1 align="center">Hi, I'm Ammar Jussa! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "32px"></h1>
 <h3 align="center">Full Stack Web and Mobile Application Developer</h3>
 
