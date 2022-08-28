@@ -22,11 +22,11 @@
 <p align="center"> <a href="https://github.com/ammarjussa"><img src="https://github-profile-trophy.vercel.app/?username=ammarjussa&theme=monokai" alt="ammarjussa" /></a> </p>
 
 
-- 🔭 I’m currently working on **Something Really Cool 😉**
+- 🌱 I’m currently learning **Web3.0 (Metamask, Web3.js, Ethers.js, Solidity, SmartContract Integration)**
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🔭 BS Computer Science Graduate from LUMS. 
 
-- 💬 Ask me about **ReactJS, NextJS, NodeJS, React Native etc.**
+- 💬 Ask me about **ReactJS, NextJS, NodeJS, etc.**
 
 - 📫 How to reach me **ammar26497@gmail.com**
 
