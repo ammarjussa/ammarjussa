@@ -24,7 +24,9 @@
 
 - 🌱 I’m currently learning **Web3.0 (Metamask, Web3.js, Ethers.js, Solidity, SmartContract Integration)**
 
-- 🔭 BS Computer Science Graduate from LUMS. 
+- 🔭 BS Computer Science Graduate from LUMS, Lahore, Pakistan.
+
+- 🔭 MS Software Engineering from Kingston University, London, UK.
 
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, etc.**
 
